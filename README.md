@@ -29,4 +29,6 @@ Minhas preferências para usar o guake terminal
 
 
 ### Carregar Preferências
+	git clone --depth 1 https://github.com/brunodavi/guake-preferences
+	cd guake-preferences
 	guake --restore-preferences=my-preferences
