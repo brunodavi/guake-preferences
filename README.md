@@ -3,7 +3,7 @@ Minhas preferências para usar o guake terminal
 
 <details>
 	<summary>Demo</summary>
-	![demo](/src/demo.png)
+	<img src="/src/demo.png" alt="demo">
 </details>
 
 
